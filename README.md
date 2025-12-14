@@ -10,13 +10,11 @@ The main goal of this project is to take raw, messy data and turn it into a **cl
 - **Format:** CSV  
 - **Description:** Company layoffs data including company name, industry, location, total layoffs, percentage laid off, funding, and dates.
 
---- Tools 
+## Tools 
 - MySQL  
 - MySQL Workbench  
 - SQL  
 - CTEs & Window Functions
-
----
 
 ##  Data Cleaning Overview
 Data cleaning was performed using **staging tables** to ensure the raw data remained unchanged.
@@ -44,8 +42,6 @@ Some of the questions explored:
 - Rolling total of layoffs over time
 
 Advanced SQL techniques such as **CTEs**, **ranking functions**, and **window functions** were used throughout the analysis.
-
----
 
 ## Author
 **Elaheh Tahmasbi pour**
