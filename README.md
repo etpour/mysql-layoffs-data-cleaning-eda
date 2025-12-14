@@ -4,7 +4,8 @@ Hi!
 This project is an end-to-end **MySQL data cleaning and exploratory analysis** project based on a real-world global layoffs dataset.
 
 The main goal of this project is to take raw, messy data and turn it into a **clean, structured, and analysis-ready dataset**, then explore it to find meaningful trends and insights.
- -- Dataset
+
+## Dataset
 - **Source:** Kaggle – Global Layoffs Dataset  
 - **Link:** https://www.kaggle.com/datasets/swaptr/layoffs-2022  
 - **Format:** CSV  
